@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://KevinPike.github.io/sitemap.xml 
